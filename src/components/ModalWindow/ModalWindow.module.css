@@ -1,0 +1,28 @@
+.modal {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    background-color: #254291d2;
+
+}
+
+.btnYes {
+    background-color: rgb(8, 7, 114);
+}
+
+.btnNo:hover,
+.btnNo:focus,
+.btnNo:active {
+    background-color: #505050;
+    color: white;
+}
+
+.btnNo {
+    background-color: rgb(8, 7, 114);
+}
+
+.btnYes:hover,
+.btnYes:focus,
+.btnYes:active {
+    background-color: red;
+}
